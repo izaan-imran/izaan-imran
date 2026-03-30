@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Izaan Imran&fontSize=90&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Izaan%20Imran&fontSize=90&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7931E&center=true&vCenter=true&width=1000&lines=I'm+a+Data+Science+Undergrad+at+DUET;Bridging+Data+%26+Business+Strategy;Find+the+'why'+behind+the+numbers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7931E&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Izaan+Imran;Data+Science+Undergraduate+at+DUET;Specializing+in+Machine+Learning;Bridging+Data+%26+Business+Strategy" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 🚀 About Me
-I'm a dedicated undergraduate student at Dawood University (Class of 2028), focused on building data-driven solutions that solve real enterprise problems. I enjoy digging into raw datasets to find the logical insights and presenting them through interactive visuals. With a background in project management, I approach data with a structured mindset to ensure efficiency.
+I am a dedicated **Data Science Undergraduate Student** at Dawood University of Engineering & Technology (Class of 2028). My passion lies in bridging the gap between raw data and actionable business strategy. 
+
+I approach every project with a **structured, problem-solving mindset**, focusing on:
+- **Data Narrative:** Finding the "why" behind numbers to drive growth.
+- **Efficiency:** Automating repetitive tasks through Python and SQL scripts.
+- **Clarity:** Building high-impact visuals that make complex data easy to understand for stakeholders.
+
+With a background in project management, I ensure that my technical solutions are not just accurate, but also aligned with specific business goals and delivered on time.
 
 ---
 
-### 🛠 What I'm working on:
-- **🤖 Machine Learning:** Predictive Modeling & Feature Engineering.
-- **☁️ Cloud Computing:** Learning AWS deployment fundamentals.
-- **[📂 Netflix Content EDA](https://github.com/izaan-imran/Netflix-Data-Analysis):** Global content trends. (In-Progress)
-- **[📂 Automated Resume Screener](https://github.com/izaan-imran/Automated-Resume-Screener):** NLP-based efficient matching. (In-Progress)
+### 🛠 What I’m currently working on (In-Progress):
+- **🤖 Machine Learning:** Mastering **Scikit-Learn** for predictive modeling and **SciPy** for statistical analysis.
+- **📂 Netflix Content Trends & EDA:** Conducting an end-to-end Python-based analysis on global streaming data.
+- **📂 Automated Resume Screener:** Developing an NLP-powered tool to streamline recruitment workflows.
+- **☁️ Cloud & Scalability:** Learning **AWS** fundamentals to deploy data-driven applications.
 
 ---
 
@@ -44,15 +51,6 @@ I'm a dedicated undergraduate student at Dawood University (Class of 2028), focu
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Power Query-4E4D4D?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Wakatime-2D3748?style=for-the-badge&logo=wakatime&logoColor=white" />
-</p>
-
----
-
-### 🐍 The Contribution Snake (A Fahad-style Highlight)
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
