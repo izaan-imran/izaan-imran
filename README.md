@@ -1,24 +1,57 @@
-# 💫 About Me:
-<br>🔭 I'm currently working on:<br><br>Automated Resume Screener & Analyzer tool built with Streamlit<br>An end-to-end EDA project on a new dataset<br>Power BI KPI Dashboards and SQL Database Normalization<br>👯 I'm looking to collaborate on:<br><br>Data Science, Business Intelligence, and Machine Learning projects with real-world impact<br>🤝 I'm looking for help with:<br><br>Advanced Predictive Modeling techniques and MLOps best practices<br>🌱 I'm currently learning:<br><br>Machine Learning algorithms, Streamlit app development, and advanced Power BI DAX formulas<br>💬 Ask me about:<br><br>Python (Pandas, NumPy, Matplotlib, Seaborn), SQL optimization, Power BI dashboards, and EDA<br>⚡ Fun fact:<br><br>I can find patterns in messy datasets faster than most people can open Excel! 😄<br><br><br><br><br><br><br>
+# Hi, I'm Izaan Imran 👋 
 
+I’m a **Data Science student** at Dawood University of Engineering & Technology (Class of 2028), focused on building data-driven solutions that solve real business problems. I enjoy digging into raw datasets to find the "why" behind the numbers and presenting those findings through clear, interactive visuals.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=izaan-imran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=izaan-imran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=izaan-imran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+With experience in project management, I approach data projects with a structured mindset—ensuring every analysis is aligned with specific goals and delivered efficiently.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=izaan-imran&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+---
+
+### 🛠 What I’m working on:
+- **Advanced Analytics:** Performing deep-dives into datasets like Netflix to identify global trends.
+- **Business Intelligence:** Creating automated, high-impact dashboards to track KPIs in real-time.
+- **Data Architecture:** Applying SQL optimization and database normalization (1NF, 2NF, 3NF).
+- **Predictive Modeling:** Developing machine learning roadmaps and automation scripts.
+
+---
+
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+---
+
+### 📊 Featured Projects
+* **[Amazon Sales Dashboard 2024 (Excel)](https://github.com/izaan-imran/Amazon-Sales-Analysis-Excel):** Interactive dashboard for tracking ₹10.2M in sales across India with advanced KPI monitoring.
+* **Superstore Sales Performance Dashboard:** A Power BI solution for tracking business growth and performance metrics.
+* **Automated Resume Screener:** A data-driven tool built with Streamlit for efficient candidate matching.
+* **Netflix Data Analysis:** An end-to-end EDA project focused on content trends and viewing patterns.
+
+---
+
+### 📈 GitHub Analytics & Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izaan-imran&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="Izaan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaan-imran&theme=radical&hide_border=true" alt="Izaan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izaan-imran&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Izaan's Top Languages" />
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=izaan-imran&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=izaan-imran&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/izaan-imran/) | [Email](mailto:your-email@example.com)
