@@ -63,6 +63,5 @@ With a background in project management, I ensure that my technical solutions ar
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izaan-imran&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaan-imran&theme=radical&hide_border=true" width="48%" />
 </p>
